@@ -1,1 +1,1 @@
-# Kam-hub-v3-pro
+print("Con Cặc Mày Dell Sp Cút Địt Mẹ Mày");
